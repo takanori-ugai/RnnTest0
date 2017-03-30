@@ -11,4 +11,4 @@ https://github.com/deeplearning4j/dl4j-examples/tree/master/dl4j-examples/src/ma
 
 * いろいろパラメータもいじってみたけど、これ以上精度は上がらないようだ。
 
-* プログラム合っているのかとか誰か助言くれたらうれしいです。
+* プログラム正しいかとか誰か助言くれたらうれしいです。
